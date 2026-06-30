@@ -1,1 +1,2 @@
-this is new files
+this is new files/n this is new line/nthis is new line
+this is new line
