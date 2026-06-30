@@ -3,4 +3,7 @@ try:
     print(x)
 except:
     print("Value not an integer")
+
+finally:
+    print("try except finished")
     
